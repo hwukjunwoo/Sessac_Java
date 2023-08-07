@@ -1,6 +1,5 @@
 package Kiosk_array;
 
-import interface_Kiosk.KioskException;
 
 public class Menu {
 	protected String[] menuArray = {"딸기요거트", "카페라떼", "밀크티", "아메리카노"};

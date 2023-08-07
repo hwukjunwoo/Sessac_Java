@@ -3,8 +3,6 @@ package Kiosk_array;
 import java.util.Arrays;
 import java.util.Scanner;
 
-import interface_Kiosk.KioskException;
-
 public class RunKiosk {
 	public static void main(String[] args) {
 		String menu = null;
